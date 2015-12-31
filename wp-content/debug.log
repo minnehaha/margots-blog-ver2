@@ -1,0 +1,4 @@
+[30-Dec-2015 21:47:45 UTC] PHP Notice:  Undefined index: SERVER_NAME in /home/websites/wordpress/margots-blog/wp-content/plugins/contact-form-7/includes/contact-form-template.php on line 85
+[30-Dec-2015 21:47:45 UTC] PHP Notice:  Undefined index: SERVER_NAME in /home/websites/wordpress/margots-blog/wp-content/plugins/contact-form-7/includes/functions.php on line 333
+[30-Dec-2015 21:47:45 UTC] PHP Notice:  Undefined index: SERVER_NAME in /home/websites/wordpress/margots-blog/wp-content/plugins/contact-form-7/includes/contact-form-template.php on line 85
+[30-Dec-2015 21:47:45 UTC] PHP Notice:  Undefined index: SERVER_NAME in /home/websites/wordpress/margots-blog/wp-content/plugins/contact-form-7/includes/functions.php on line 333
