@@ -110,7 +110,7 @@ input,
 select,
 textarea {
 	color: #574d4d;
-	font-family: "Droid Serif", "Times New Roman", serif;
+	font-family: Consolas, Monaco, monospace, Sans-serif, "Droid Serif", "Times New Roman", serif;
 	font-size: 14px;
 	font-size: 1.4rem;
 	line-height: 2;
@@ -126,7 +126,7 @@ h1,h2,h3 {
 	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
 }
 h4,h5,h6 {
-	font-family: "Droid Serif", "Times New Roman", serif;
+	font-family: "Droid Serif", Sans-serif, "Times New Roman", serif;
 	font-weight: normal;
 }
 h1 {
