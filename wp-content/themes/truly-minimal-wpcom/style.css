@@ -109,9 +109,10 @@ button,
 input,
 select,
 textarea {
-	color: #574d4d;
-	font-family: Consolas, Monaco, monospace, Sans-serif, "Droid Serif", "Times New Roman", serif;
-	font-size: 14px;
+	color: #141412;
+	/*: Consolas, Monaco, monospace, Sans-serif, "Droid Serif", "Times New Roman", serif;*/
+    font-family:lemonde-sans-1, lemonde-sans-2, sans-serif;
+    font-size: 14px;
 	font-size: 1.4rem;
 	line-height: 2;
 }
@@ -127,7 +128,7 @@ h1,h2,h3 {
 }
 h4,h5,h6 {
 	font-family: "Droid Serif", Sans-serif, "Times New Roman", serif;
-	font-weight: normal;
+	font-weight: bold;
 }
 h1 {
 	font-size: 28px;
